@@ -19,11 +19,11 @@ Aqui nesta imagem temos a direita um texto "corrido", com informações juntas e
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/41839566/151077272-aa43be01-9ba3-4ae4-a88d-9d9ef7cb98ea.png">
 
 
-#Personas
+# Personas
 Neste site de Rosenfeld Media há exemplos de personas diversas:
 https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/
 
-#Resumão
+# Resumão
 ##Quando falamos de acessibilidade, é importante não pensar somente em habilidades e condições físicas, mas também condições temporárias, relacionadas à idade ou situacionais.
 ##Priorizar conteúdo e elementos de layout é uma parte da arquitetura de informação que ajuda as pessoas a manter o foco e se concentrar nas principais tarefas e informações de uma página.
 ##A navegação não se restringe aos menus: ela envolve a busca, breadcrumbs e indicadores de progresso.
