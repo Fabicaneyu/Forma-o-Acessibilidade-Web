@@ -24,7 +24,20 @@ Neste site de Rosenfeld Media há exemplos de personas diversas:
 https://rosenfeldmedia.com/a-web-for-everyone/personas-for-accessible-ux/
 
 # Resumão
-##Quando falamos de acessibilidade, é importante não pensar somente em habilidades e condições físicas, mas também condições temporárias, relacionadas à idade ou situacionais.
-##Priorizar conteúdo e elementos de layout é uma parte da arquitetura de informação que ajuda as pessoas a manter o foco e se concentrar nas principais tarefas e informações de uma página.
-##A navegação não se restringe aos menus: ela envolve a busca, breadcrumbs e indicadores de progresso.
-##Podemos minimizar o esforço cognitivo das pessoas para entender as relações entre os conteúdos ao aproximar elementos que são similares e distanciar conteúdos que não são relacionados.
+## Quando falamos de acessibilidade, é importante não pensar somente em habilidades e condições físicas, mas também condições temporárias, relacionadas à idade ou situacionais.
+## Priorizar conteúdo e elementos de layout é uma parte da arquitetura de informação que ajuda as pessoas a manter o foco e se concentrar nas principais tarefas e informações de uma página.
+## A navegação não se restringe aos menus: ela envolve a busca, breadcrumbs e indicadores de progresso.
+## Podemos minimizar o esforço cognitivo das pessoas para entender as relações entre os conteúdos ao aproximar elementos que são similares e distanciar conteúdos que não são relacionados.
+
+# Daltonismo
+Podemos testar usando a ferramenta: extensão do Google Chrome chamada Colorblinding, a qual serve para simular diferentes níveis de daltonismo. Também se a pessoa usuária, estiver em um lugar com baixa luminosidade ou algum monitor com diferentes configurações para cores, atrapalha a visão. Por exemplo neste caso:
+<img width="410" alt="image" src="https://user-images.githubusercontent.com/41839566/151079595-bf307333-ed2e-4c8e-8f2d-0dd649afd205.png">
+Para resolver isso, deve-se garantir um bom CONTRASTE Para garantir este bom contraste, usamos uma ferramenta interessante para criarmos esquemas de cores acessíveis chamada colorsafe.co .
+
+Onde de acordo para com a WCAG para elementos textuais é recomendado um contraste de 4,5 e para não textuais de 3. Esta é a regra de Success Criterion 1.4.3 Contrast (Minimum) (Level AA) , que significa: 
+Princípio 1 – Perceptível 
+As informações e os componentes da interface do usuário devem ser apresentáveis aos usuários de maneiras que possam perceber.
+Diretriz 1.4 – Distinguível
+Torne mais fácil para os usuários ver e ouvir conteúdo, incluindo separar o primeiro plano do plano de fundo.
+1.4.3 Contraste (Mínimo) Nível AA - A apresentação visual de texto e imagens do texto tem uma razão de contraste de pelo menos 4,5:1
+
